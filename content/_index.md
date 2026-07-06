@@ -1,6 +1,7 @@
 ---
 title: go-json
 ---
+
 **A dynamic, JSON-compatible value model for Go: a value space with typed, constant-error accessors and the coercion rules a small expression language needs. A decoded `encoding/json` document is already a `Value`, so the package interoperates directly with the standard library while supplying the typed accessors and arithmetic that raw `any` values lack.**
 
 - **Source:** [gomatic/go-json](https://github.com/gomatic/go-json)

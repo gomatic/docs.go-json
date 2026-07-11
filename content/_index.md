@@ -9,7 +9,7 @@ title: go-json
 
 ## Install
 
-```
+```sh
 go get github.com/gomatic/go-json
 ```
 
